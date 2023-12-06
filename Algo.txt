@@ -1,4 +1,6 @@
 Visit website of resturant of choice
+Step 1a Search for resturants with BOGO deals
+Step 1b Select deal of choice
 View Menu
 Choose pizza pie size
 Choose sauce base and cheese
