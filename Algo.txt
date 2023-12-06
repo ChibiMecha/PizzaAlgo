@@ -1,0 +1,7 @@
+Visit website of resturant of choice
+View Menu
+Choose pizza pie size
+Choose sauce base and cheese
+Choose meat ingredients
+Choose veggie ingredients
+Place online order
